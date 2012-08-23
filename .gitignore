@@ -1,0 +1,8 @@
+*.lst
+input/*.input
+list/*.txt
+output/*.lst
+work/*.seq
+work/*.lst
+work/*.txt
+
