@@ -1,0 +1,9 @@
+*.lst
+config/config.txt
+input/*.input
+list/*.txt
+output/*.lst
+work/*.seq
+work/*.lst
+work/*.txt
+

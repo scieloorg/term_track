@@ -1,0 +1,542 @@
+!ID 0000001
+!v001!097
+!v002!065
+!v011!asc
+!v021!asc
+!v051!a
+!v059!versao 1.0a^d20080317
+!ID 0000002
+!v001!098
+!v002!066
+!v011!asc
+!v021!asc
+!v051!b
+!ID 0000003
+!v001!099
+!v002!067
+!v011!asc
+!v021!asc
+!v051!c
+!ID 0000004
+!v001!100
+!v002!068
+!v011!asc
+!v021!asc
+!v051!d
+!ID 0000005
+!v001!101
+!v002!069
+!v011!asc
+!v021!asc
+!v051!e
+!ID 0000006
+!v001!102
+!v002!070
+!v011!asc
+!v021!asc
+!v051!f
+!ID 0000007
+!v001!103
+!v002!071
+!v011!asc
+!v021!asc
+!v051!g
+!ID 0000008
+!v001!104
+!v002!072
+!v011!asc
+!v021!asc
+!v051!h
+!ID 0000009
+!v001!105
+!v002!073
+!v011!asc
+!v021!asc
+!v051!i
+!ID 0000010
+!v001!106
+!v002!074
+!v011!asc
+!v021!asc
+!v051!j
+!ID 0000011
+!v001!107
+!v002!075
+!v011!asc
+!v021!asc
+!v051!k
+!ID 0000012
+!v001!108
+!v002!076
+!v011!asc
+!v021!asc
+!v051!l
+!ID 0000013
+!v001!109
+!v002!077
+!v011!asc
+!v021!asc
+!v051!m
+!ID 0000014
+!v001!110
+!v002!078
+!v011!asc
+!v021!asc
+!v051!n
+!ID 0000015
+!v001!111
+!v002!079
+!v011!asc
+!v021!asc
+!v051!o
+!ID 0000016
+!v001!112
+!v002!080
+!v011!asc
+!v021!asc
+!v051!p
+!ID 0000017
+!v001!113
+!v002!081
+!v011!asc
+!v021!asc
+!v051!q
+!ID 0000018
+!v001!114
+!v002!082
+!v011!asc
+!v021!asc
+!v051!r
+!ID 0000019
+!v001!115
+!v002!083
+!v011!asc
+!v021!asc
+!v051!s
+!ID 0000020
+!v001!116
+!v002!084
+!v011!asc
+!v021!asc
+!v051!t
+!ID 0000021
+!v001!117
+!v002!085
+!v011!asc
+!v021!asc
+!v051!u
+!ID 0000022
+!v001!118
+!v002!086
+!v011!asc
+!v021!asc
+!v051!v
+!ID 0000023
+!v001!119
+!v002!087
+!v011!asc
+!v021!asc
+!v051!w
+!ID 0000024
+!v001!120
+!v002!088
+!v011!asc
+!v021!asc
+!v051!x
+!ID 0000025
+!v001!121
+!v002!089
+!v011!asc
+!v021!asc
+!v051!y
+!ID 0000026
+!v001!122
+!v002!090
+!v011!asc
+!v021!asc
+!v051!z
+!ID 0000027
+!v001!192
+!v002!065
+!v011!asc
+!v021!asc
+!v051!A maiusculo com acento grave
+!v052!A maiusculo
+!ID 0000028
+!v001!193
+!v002!065
+!v011!asc
+!v021!asc
+!v051!A maiusculo com acento agudo
+!v052!A maiusculo
+!ID 0000029
+!v001!194
+!v002!065
+!v011!asc
+!v021!asc
+!v051!A maiusculo com acento circunflexo
+!v052!A maiusculo
+!ID 0000030
+!v001!195
+!v002!065
+!v011!asc
+!v021!asc
+!v051!A maiusculo com til
+!v052!A maiusculo
+!ID 0000031
+!v001!196
+!v002!065
+!v011!asc
+!v021!asc
+!v051!A maiusculo com trema
+!v052!A maiusculo
+!ID 0000032
+!v001!197
+!v002!065
+!v011!asc
+!v021!asc
+!v051!A maiusculo com anel
+!v052!A maiusculo
+!ID 0000033
+!v001!198
+!v002!069
+!v011!asc
+!v021!asc
+!v051!AE maiusculo
+!v052!E maiusculo
+!ID 0000034
+!v001!199
+!v002!067
+!v011!asc
+!v021!asc
+!v051!C cedilha maiusculo
+!v052!C maiusculo
+!ID 0000035
+!v001!200
+!v002!069
+!v011!asc
+!v021!asc
+!v051!E maiusculo com acento grave
+!v052!E maiusculo
+!ID 0000036
+!v001!201
+!v002!069
+!v011!asc
+!v021!asc
+!v051!E maiusculo com acento agudo
+!v052!E maiusculo
+!ID 0000037
+!v001!202
+!v002!069
+!v011!asc
+!v021!asc
+!v051!E maiusculo com acento circunflexo
+!v052!E maiusculo
+!ID 0000038
+!v001!203
+!v002!069
+!v011!asc
+!v021!asc
+!v051!E maiusculo com trema
+!v052!E maiusculo
+!ID 0000039
+!v001!204
+!v002!073
+!v011!asc
+!v021!asc
+!v051!I maiusculo com acento grave
+!v052!I maiusculo
+!ID 0000040
+!v001!205
+!v002!073
+!v011!asc
+!v021!asc
+!v051!I maiusculo com acento agudo
+!v052!I maiusculo
+!ID 0000041
+!v001!206
+!v002!073
+!v011!asc
+!v021!asc
+!v051!I maiusculo com acento circunflexo
+!v052!I maiusculo
+!ID 0000042
+!v001!207
+!v002!073
+!v011!asc
+!v021!asc
+!v051!I maiusculo com trema
+!v052!I maiusculo
+!ID 0000043
+!v001!209
+!v002!078
+!v011!asc
+!v021!asc
+!v051!N maiusculo com til
+!v052!N maiusculo
+!ID 0000044
+!v001!210
+!v002!079
+!v011!asc
+!v021!asc
+!v051!O maiusuclo com acento grave
+!v052!O maiusculo
+!ID 0000045
+!v001!211
+!v002!079
+!v011!asc
+!v021!asc
+!v051!O maiusuclo com acento agudo
+!v052!O maiusculo
+!ID 0000046
+!v001!212
+!v002!079
+!v011!asc
+!v021!asc
+!v051!O maiusuclo com acento circunflexo
+!v052!O maiusculo
+!ID 0000047
+!v001!213
+!v002!079
+!v011!asc
+!v021!asc
+!v051!O maiusuclo com til
+!v052!O maiusculo
+!ID 0000048
+!v001!214
+!v002!079
+!v011!asc
+!v021!asc
+!v051!O maiusuclo com trema
+!v052!O maiusculo
+!ID 0000049
+!v001!217
+!v002!085
+!v011!asc
+!v021!asc
+!v051!U maiusuclo com acento grave
+!v052!U maiusculo
+!ID 0000050
+!v001!218
+!v002!085
+!v011!asc
+!v021!asc
+!v051!U maiusuclo com acento agudo
+!v052!U maiusculo
+!ID 0000051
+!v001!219
+!v002!085
+!v011!asc
+!v021!asc
+!v051!U maiusuclo com acento circunflexo
+!v052!U maiusculo
+!ID 0000052
+!v001!220
+!v002!085
+!v011!asc
+!v021!asc
+!v051!U maiusuclo com trema
+!v052!U maiusculo
+!ID 0000053
+!v001!221
+!v002!089
+!v011!asc
+!v021!asc
+!v051!Y maiusculo com acento agudo
+!v052!Y maiusculo
+!ID 0000054
+!v001!224
+!v002!065
+!v011!asc
+!v021!asc
+!v051!a minusculo com acento grave
+!v052!A maiusculo
+!ID 0000055
+!v001!225
+!v002!065
+!v011!asc
+!v021!asc
+!v051!a minusculo com acento agudo
+!v052!A maiusculo
+!ID 0000056
+!v001!226
+!v002!065
+!v011!asc
+!v021!asc
+!v051!a minusculo com acento circunflexo
+!v052!A maiusculo
+!ID 0000057
+!v001!227
+!v002!065
+!v011!asc
+!v021!asc
+!v051!a minusculo com til
+!v052!A maiusculo
+!ID 0000058
+!v001!228
+!v002!065
+!v011!asc
+!v021!asc
+!v051!a minusculo com com trema
+!v052!A maiusculo
+!ID 0000059
+!v001!229
+!v002!065
+!v011!asc
+!v021!asc
+!v051!a minusculo com anel
+!v052!A maiusculo
+!ID 0000060
+!v001!230
+!v002!069
+!v011!asc
+!v021!asc
+!v051!ae minusculo
+!v052!E maiusculo
+!ID 0000061
+!v001!231
+!v002!067
+!v011!asc
+!v021!asc
+!v051!c cedilha minusculo
+!v052!C maiusculo
+!ID 0000062
+!v001!232
+!v002!069
+!v011!asc
+!v021!asc
+!v051!e minusculo com acento grave
+!v052!E maiusculo
+!ID 0000063
+!v001!233
+!v002!069
+!v011!asc
+!v021!asc
+!v051!e minusculo com acento agudo
+!v052!E maiusculo
+!ID 0000064
+!v001!234
+!v002!069
+!v011!asc
+!v021!asc
+!v051!e minusculo com acento circunflexo
+!v052!E maiusculo
+!ID 0000065
+!v001!235
+!v002!069
+!v011!asc
+!v021!asc
+!v051!e minusculo com trema
+!v052!E maiusculo
+!ID 0000066
+!v001!236
+!v002!073
+!v011!asc
+!v021!asc
+!v051!i minusculo com acento grave
+!v052!I maiusculo
+!ID 0000067
+!v001!237
+!v002!073
+!v011!asc
+!v021!asc
+!v051!i minusculo com acento agudo
+!v052!I maiusculo
+!ID 0000068
+!v001!238
+!v002!073
+!v011!asc
+!v021!asc
+!v051!i minusculo com acento circunflexo
+!v052!I maiusculo
+!ID 0000069
+!v001!239
+!v002!073
+!v011!asc
+!v021!asc
+!v051!i minusculo com trema
+!v052!I maiusculo
+!ID 0000070
+!v001!241
+!v002!078
+!v011!asc
+!v021!asc
+!v051!n minusculo com til
+!v052!N maiusculo
+!ID 0000071
+!v001!242
+!v002!079
+!v011!asc
+!v021!asc
+!v051!o minusculo com acento grave
+!v052!O maiusculo
+!ID 0000072
+!v001!243
+!v002!079
+!v011!asc
+!v021!asc
+!v051!o minusculo com acento agudo
+!v052!O maiusculo
+!ID 0000073
+!v001!244
+!v002!079
+!v011!asc
+!v021!asc
+!v051!o minusculo com acento circunflexo
+!v052!O maiusculo
+!ID 0000074
+!v001!245
+!v002!079
+!v011!asc
+!v021!asc
+!v051!o minusculo com til
+!v052!O maiusculo
+!ID 0000075
+!v001!246
+!v002!079
+!v011!asc
+!v021!asc
+!v051!o minusculo com trema
+!v052!O maiusculo
+!ID 0000076
+!v001!249
+!v002!085
+!v011!asc
+!v021!asc
+!v051!u minusculo com acento grave
+!v052!U maiusculo
+!ID 0000077
+!v001!250
+!v002!085
+!v011!asc
+!v021!asc
+!v051!u minusculo com acento agudo
+!v052!U maiusculo
+!ID 0000078
+!v001!251
+!v002!085
+!v011!asc
+!v021!asc
+!v051!u minusculo com acento circunflexo
+!v052!U maiusculo
+!ID 0000079
+!v001!252
+!v002!085
+!v011!asc
+!v021!asc
+!v051!u minusculo com trema
+!v052!U maiusculo
+!ID 0000080
+!v001!253
+!v002!089
+!v011!asc
+!v021!asc
+!v051!y minusculo com acento agudo
+!v052!Y maiusculo
+!ID 0000081
+!v001!255
+!v002!089
+!v011!asc
+!v021!asc
+!v051!y minusculo com trema
+!v052!Y maiusculo
