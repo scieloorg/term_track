@@ -290,8 +290,8 @@ echo "[EXTRC] Inicia extracao de artigoh, artigop e artigouc"
 echo "[EXTRC] Garente condicoes de execucao"
 echo "[EXTRC] - gizmo de upper-case"
 if [ -f "gizmo/gansuc.xrf" ]; then
-	$PATH_G4/id2i gizmo/gansuc.id create=gansuc
-	source checkerror.sh
+	$PATH_LINDG4/id2i gizmo/gansuc.id create=gansuc
+	source shs/common/checkerror.sh
 fi
 
 echo "[EXTRC] - prepara area de trabalho"
