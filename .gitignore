@@ -6,4 +6,6 @@ output/*.lst
 work/*.seq
 work/*.lst
 work/*.txt
-
+*mst
+*xrf
+*md
